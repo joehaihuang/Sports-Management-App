@@ -51,3 +51,5 @@ The project is fully functional and meets all the set goals. As this was my firs
 using Tkinter, and working with a SQL storage database there is significant room for improvement. However, as this was
 for a course project and there exists competing solutions I am unlikely to continue work on the project. This project
 was a fantastic learning experience and I hope to bring my newfound knowledge to future endeavours.
+
+Note: I worked on this project with https://github.com/bradleybares/ locally on their machine, then copied the repository from their github.
